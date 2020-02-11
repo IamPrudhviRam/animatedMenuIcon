@@ -1,2 +1,0 @@
-# animatedMenuIcon
-Created with CodeSandbox
